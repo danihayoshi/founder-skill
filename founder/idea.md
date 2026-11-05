@@ -1,4 +1,4 @@
-# AI Solopreneur Academy (variante B1)
+# Landell School of Business (antes: AI Solopreneur Academy) — variante B1
 
 - O que é: um método e uma equipe de agentes de IA que levam quem empreende sozinho da ideia à primeira venda, fechando a operação completa (pagamento, página de vendas, publicação) sem equipe e sem programar, com a pessoa no controle das decisões.
 - Para quem: quem pagou curso ou ferramenta de IA nos últimos 90 dias, testou uma ideia e travou. Early adopter: pagou mais de um curso/ferramenta de IA em 90 dias, tem um projeto concreto quase pronto e parado, e pede ajuda em público (comenta, pergunta, diz onde travou). Alcançáveis: cerca de 80.000 (estimativa do LEANSpark).

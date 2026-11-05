@@ -143,3 +143,21 @@ Critérios: curto, funciona em EN e PT, a história da pessoa tem a ver com faze
 | Hopper | Grace Hopper, pioneira da programação | não buscado | app Hopper (viagens) |
 | Ada / Lovelace | primeira programadora | ver rodada 2 | "Ada" é muito usado em educação tech |
 | Hypatia | filósofa e professora | não buscado | difícil de pronunciar em PT |
+
+## DECISÃO: Landell School of Business (05/11/2026)
+
+Escolhido pela fundadora. Homenagem ao padre Roberto Landell de Moura (Porto Alegre).
+- Registrou no Brasil, em 1901, um aparelho para transmitir a voz sem fio, e obteve três patentes nos EUA em 1904 (Wave Transmitter nº 771.917, Wireless Telephone nº 775.337, Wireless Telegraph nº 775.846). [Gazeta do Povo](https://www.gazetadopovo.com.br/vozes/tubo-de-ensaio/padre-roberto-landell-de-moura-inventor-radio/) · [Sesc SP](https://portal.sescsp.org.br/online/artigo/compartilhar/4861_TRISTE+HISTORIA+DE+UM+HEROI+SEM+GLORIA) · [Revista USP](https://revistas.usp.br/revusp/article/download/33801/36539)
+- Em 1984, a Fundação de Ciência e Tecnologia de Porto Alegre reconstruiu o transmissor de 1904, e ele funcionou.
+- **Cuidado ao contar a história:** a ideia de que ele foi "o primeiro inventor do rádio" é disputada (o crédito costuma ir para Marconi). Uma forma segura de dizer: "inventor brasileiro que transmitiu a voz sem fio e patenteou sozinho, sem o reconhecimento que merecia". [Congresso em Foco](https://www.congressoemfoco.com.br/coluna/61098/inventor-brasileiro-do-radio-vira-%e2%80%9cheroi-da-patria%e2%80%9d)
+- A busca na web não mostrou nenhuma escola, curso ou marca "Landell" no Brasil. Ainda falta confirmar no INPI, no USPTO, no registro.br e nos @.
+
+Frase de apoio (rascunho): *"Landell School of Business. Para quem empreende sozinho, com IA."*
+
+### Checklist da fundadora
+- [ ] INPI: "Landell" nas classes 41, 35 e 42 — https://busca.inpi.gov.br/pePI/
+- [ ] USPTO: "Landell" nas classes 41, 35 e 42 — https://tmsearch.uspto.gov/
+- [ ] Domínios: landell.com.br, landell.com, landell.school, landellschool.com
+- [ ] @: Instagram, YouTube, TikTok, X, LinkedIn
+- [ ] Opcional: conversar com quem cuida da memória dele (fundações e o biógrafo Hamilton Almeida) antes de usar o nome comercialmente
+- [ ] Advogado de marcas confirma antes de registrar
