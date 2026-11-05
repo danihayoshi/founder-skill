@@ -53,3 +53,32 @@ Frase de apoio, para qualquer um dos três: *"a escola de quem empreende sozinho
 - **Confusão:** comparar com os nomes em competitors.md (principalmente "AI Solopreneur Academy" no Skool).
 
 Isto não é parecer jurídico: um advogado de marcas confirma, e nada está protegido até ser registrado.
+
+## Rodada 2: três linhas de nome (05/11/2026)
+
+Regras: sem sobrenome, sem "escola de empreendedores", tem de funcionar em inglês.
+
+### Linha Link: uma palavra que represente "solo" + School of Business
+| Nome | O que diz | Busca | Risco |
+| --- | --- | --- | --- |
+| **Sole School of Business** | "sole" = único, sozinho; nos EUA, "sole proprietor" é o termo legal de quem empreende sozinho | nome exato não encontrado | parecido com a Business School del Sole 24 ORE (Itália) [link](https://www.topuniversities.com/universities/business-school-del-sole-24-ore); em PT, "sole" não é palavra |
+| **Solo School of Business** | direto | nome exato não encontrado | já existe a "Solo Business School" (EUA) [link](https://workingsolo.substack.com/about) |
+| **Solus School of Business** | "sozinho" em latim | não encontrado | pouco conhecido, soa como "solução" |
+| Indie School of Business | independente | não encontrado | a sigla ISB já é da Indian School of Business [link](https://www.weforum.org/organizations/indian-school-of-business) — descartar |
+| One School of Business | — | **já existe** (Bangalore) [link](https://collegehai.com/colleges/one-school-of-business-bangalore/course-fees) — descartar | |
+
+### Linha Babson: nome próprio (de outra pessoa ou inventado)
+| Nome | História | Busca | Risco |
+| --- | --- | --- | --- |
+| **Dumont School of Business** | Santos-Dumont: brasileiro, voou sozinho, inventor; funciona em EN | nome exato não encontrado | nome de figura histórica: checar herdeiros e as marcas "Santos Dumont" já registradas no INPI |
+| **Lovelace School of Business** | Ada Lovelace: primeira programadora, mulher, ligada à computação e à IA | nome exato não encontrado | existe uma startup "Lovelace" (Univ. Minnesota) [link](https://poetsandquantsforundergrads.com/tag/lovelace/); "Ada" é muito usado em educação tech |
+| Hypatia School of Business | filósofa e professora | não buscado | difícil de pronunciar em PT |
+
+### Linha MIT: sigla que funcione em inglês
+| Sigla | Significado | Busca | Risco |
+| --- | --- | --- | --- |
+| **SOLE** | School Of Lean Entrepreneurship | nome por extenso não encontrado | "SOLE" já é um método de educação conhecido (Self-Organized Learning Environment, de Sugata Mitra), na mesma área (classe 41) [link](https://www.gettingsmart.com/?p=82582) |
+| SOLO | School Of Lean Operators | não buscado | genérico |
+| SOL | School Of Launch | não buscado | "sol" em PT é bonito, mas a palavra é muito comum |
+
+**Observação:** SOLE junta as três linhas: é uma sigla (MIT), quer dizer "único/sozinho" (Link) e o "Lean" conecta ao método da fundadora (LEANSpark).
