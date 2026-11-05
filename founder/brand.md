@@ -82,3 +82,47 @@ Regras: sem sobrenome, sem "escola de empreendedores", tem de funcionar em ingl�
 | SOL | School Of Launch | não buscado | "sol" em PT é bonito, mas a palavra é muito comum |
 
 **Observação:** SOLE junta as três linhas: é uma sigla (MIT), quer dizer "único/sozinho" (Link) e o "Lean" conecta ao método da fundadora (LEANSpark).
+
+## Rodada 3: brainstorm completo (05/11/2026)
+
+### Linha Link: uma palavra para "solo" + School of Business
+- **Quem toca ou comanda sozinho:** Soloist, Maestro, Auteur, Ace, Captain, Helm, Skipper, Pilot, Conductor, Virtuoso
+- **Imagens de estar só:** Lighthouse/Farol, Isle, Atoll, Summit, Peak, Monolith, Northstar, Lantern, Keystone, Anchor, Compass
+- **Animais solitários:** Heron, Falcon, Owl (Lynx: descartado, soa como "Link")
+- **"Um" em várias línguas:** Solo, Sole, Solus, Uno, Unum, Monad, Mono, Eka, Prime
+- **Independência:** Indie, Sovereign, Freehold, Maverick, Nomad, Own, Self
+
+### Linha Babson: nome próprio (sem sobrenome da fundadora)
+- **Mitologia:** Ariadne (o fio que tira do labirinto = destravar), Daedalus (o inventor que constrói sozinho), Prometheus, Minerva (já é universidade), Hermes (marca Hermès; descartar), Mercury (banco; descartar)
+- **Pessoas:** Santos-Dumont, Ada Lovelace, Hypatia, Leonardo, Franklin, Chiquinha Gonzaga (primeira maestrina do Brasil; difícil em EN), Mauá (o Instituto Mauá já existe; descartar)
+- **Lugares e literatura:** Ithaca (a viagem de volta), Walden (já é universidade; descartar), Pasárgada (só funciona em PT), Avalon, Macondo
+- **Inventados:** Solen, Solara, Vela, Lumen, Orin, Kairos
+
+### Linha MIT: sigla que funcione como palavra em inglês
+- **SOLE:** School Of Lean Entrepreneurship
+- **ISLE:** Institute of Solo Lean Entrepreneurship ("isle" = ilha)
+- **SELF:** School of Entrepreneurship, Leverage & Freedom
+- **LIFT:** Lean Institute for Founders & Talent
+- **SOLO:** School Of Lean Operators
+- **SOL:** School Of Launch
+- **ONE:** Operators' Network for Entrepreneurs
+- **SHIP:** School for Hands-on Independent Professionals
+
+### Triagem por busca na web (a busca não substitui o INPI nem o USPTO)
+| Nome | Resultado |
+| --- | --- |
+| Soloist School of Business | não encontrado |
+| Maestro School of Business | não encontrado ("maestro" é palavra muito comum: cartão Maestro etc.) |
+| Helm School of Business | não encontrado (parecido com HELBUS, a Helsinki School of Business) [link](https://en.wikipedia.org/wiki/Helsinki_School_of_Business) |
+| Lighthouse / Farol / Monad School of Business | não encontrado (existe um "Lighthouse Campus" na Malásia) [link](https://pktgroup.com/education/lighthouse-campus) |
+| Ariadne School of Business | não encontrado |
+| Daedalus | já existe o Dédalus Institute (educação superior, Fortaleza): **descartar** [link](https://village.ai/company/dedalu) |
+| Ithaca | já existe a Ithaca College School of Business: **descartar** [link](https://www.ithaca.edu/academics/school-business/faculty-and-staff) |
+| ISLE (por extenso) | não encontrado |
+| SELF | já existe o programa SELF da Univ. Delaware (empreendedorismo) [link](https://horn.udel.edu/top-5-reasons-to-enroll-in-entr253-and-self-program) |
+
+### Finalistas da rodada 3
+1. **Soloist School of Business**: o solista toca sozinho, com uma orquestra (os agentes) tocando junto, e é ele quem conduz. Conta a história inteira em uma palavra. Em PT, "solista".
+2. **Ariadne School of Business**: o fio que tira a pessoa do labirinto, ou seja, destrava o projeto parado. É nome próprio, como Babson, e funciona em EN e PT.
+3. **SOLE / ISLE**: siglas que também são palavras (único / ilha), com "Lean" ligado ao método.
+4. **Helm School of Business**: estar no leme, no controle.
