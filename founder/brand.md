@@ -126,3 +126,20 @@ Regras: sem sobrenome, sem "escola de empreendedores", tem de funcionar em ingl�
 2. **Ariadne School of Business**: o fio que tira a pessoa do labirinto, ou seja, destrava o projeto parado. É nome próprio, como Babson, e funciona em EN e PT.
 3. **SOLE / ISLE**: siglas que também são palavras (único / ilha), com "Lean" ligado ao método.
 4. **Helm School of Business**: estar no leme, no controle.
+
+## Rodada 4: linha "Tesla" — nome de uma pessoa histórica, não da fundadora (05/11/2026)
+
+Critérios: curto, funciona em EN e PT, a história da pessoa tem a ver com fazer sozinho, inventar e publicar.
+
+| Nome | Quem foi e por que combina | Busca na web | Risco |
+| --- | --- | --- | --- |
+| **Landell** | Padre Roberto Landell de Moura (Porto Alegre): transmitiu a voz por rádio por volta de 1900, sozinho, com patentes no Brasil e nos EUA, e quase ninguém o reconheceu. É a história mais parecida com a de Tesla, e é brasileira. | nenhuma escola ou instituto com esse nome | pouco conhecido, o que exige contar a história (e isso também pode ser uma vantagem) |
+| **Dumont** | Santos-Dumont: inventor brasileiro que voou sozinho | nenhuma escola com esse nome | também é nome de cidade (Dumont-SP, Dumont-NJ) [link](https://www.guiadacarreira.com.br/cursos-e-faculdades/sao-paulo--dumont/empreendedorismo); checar marcas "Santos Dumont" no INPI |
+| **Earhart** | Amelia Earhart: primeira mulher a cruzar o Atlântico sozinha de avião | nenhuma escola de negócios com esse nome | o nome e a imagem dela são licenciados pelo espólio (verificar) |
+| ~~Lamarr~~ | Hedy Lamarr: atriz e inventora | **já existe** o Lamarr Institute for Machine Learning and AI, que tem programas de educação em IA [link](https://lamarr-institute.org/about/) | descartado |
+| Faraday | autodidata, aprendiz de encadernador que virou cientista | não buscado | Faraday Future (carros) |
+| Kepler | trabalhou praticamente sozinho | não buscado | nome muito usado (NASA e várias empresas) |
+| Gutenberg | inventou a imprensa (publicar) | não buscado | Project Gutenberg |
+| Hopper | Grace Hopper, pioneira da programação | não buscado | app Hopper (viagens) |
+| Ada / Lovelace | primeira programadora | ver rodada 2 | "Ada" é muito usado em educação tech |
+| Hypatia | filósofa e professora | não buscado | difícil de pronunciar em PT |
