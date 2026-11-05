@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "R$ 97 não me pesa no bolso, mas isso ainda sou eu montando sozinha com um agente, e depois aulas e método. Já tenho uma pasta de cursos na Hotmart que não terminei; eu quero alguém que entregue o projeto pronto, não mais uma coisa pra eu aprender.",
+  "objection": "Não sou técnica, vou travar na parte de agentes de novo, e o plano vai virar mais um arquivo parado. Também não tem nenhum resultado de aluno ainda pra eu ver que funciona com gente como eu.",
+  "would_change_my_mind": "Se na sessão alguém da equipe fizesse junto comigo e saísse dali com a página de vendas ou o pagamento já configurado e publicado, não só um plano.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 250,
+  "price_too_expensive": 500
+}

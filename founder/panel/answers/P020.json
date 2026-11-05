@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "Sendo honesta, R$ 97 eu gasto por impulso em qualquer lançamento, e um plano montado para o meu projeto parado parece mais útil que mais um curso que vou assistir pela metade. Compro a sessão de entrada, mas não subo para os R$ 997 nem para os R$ 14.997 sem ver resultado.",
+  "objection": "No fundo acho que consigo fazer o mesmo plano sozinha com o ChatGPT, e o programa é novo, sem nenhum aluno com resultado. Meu medo é virar mais uma compra que fica parada igual ao meu projeto no Notion.",
+  "would_change_my_mind": "Se ficasse claro que a sessão é só um prompt genérico que eu mesma faria no ChatGPT, eu não compraria; se mostrassem um exemplo real de plano entregue, eu compraria com mais vontade.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 197,
+  "price_too_expensive": 397
+}

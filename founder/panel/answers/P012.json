@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "R$ 97 não me quebra, mas isso é mais um agente de IA e mais um plano, e plano eu já tenho parado no Notion. Meu problema é não ter cliente, não é ferramenta, e essa sessão não me traz nenhum.",
+  "objection": "Já caí em lançamento antes, e essa escada de R$ 97 para R$ 997 para R$ 14.997 sem nenhum resultado de aluno tem cara de funil para me vender o programa caro, não de algo que vai colocar meu projeto na rua.",
+  "would_change_my_mind": "Se a sessão de 1 hora terminasse com meu projeto publicado de verdade, com página de vendas e link de pagamento no ar, ou se tivesse garantia de devolução caso eu saísse só com mais um documento.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 150,
+  "price_too_expensive": 300
+}

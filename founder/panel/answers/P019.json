@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "R$ 97 por uma sessão de 1 hora eu pago sem pensar, já comprei coisa pior em todo lançamento. Compro mais por curiosidade e por hábito do que por acreditar que vai destravar meu projeto.",
+  "objection": "Meu problema é não ter cliente, não é ferramenta nem plano. Tenho uma pasta cheia de curso na Hotmart que não terminei, e um agente de IA montando plano não me traz comprador. E sem nenhum resultado de aluno, os R$ 997 e principalmente os R$ 14.997 nem passam pela minha cabeça.",
+  "would_change_my_mind": "Se a sessão prometesse sair com a página de vendas publicada ou com uma primeira venda testada, e não só com um plano, aí eu levaria a sério a próxima etapa.",
+  "price_too_cheap": 27,
+  "price_cheap": 67,
+  "price_expensive": 297,
+  "price_too_expensive": 597
+}

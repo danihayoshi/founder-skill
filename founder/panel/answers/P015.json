@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "R$ 97 não pesa no bolso, mas eu já faço tudo com o ChatGPT e com vídeo grátis no YouTube; montar um 'plano' com um agente eu faço sozinho hoje à noite. O que me trava é pagamento e página, e isso a oferta não diz claramente que resolve na sessão.",
+  "objection": "Programa novo, sem nenhum resultado de aluno, e não vi nada sobre garantia ou reembolso. Tenho medo de pagar, não gostar e ficar sem conseguir o dinheiro de volta, e ainda virar alvo de upsell para os R$ 14.997.",
+  "would_change_my_mind": "Garantia de reembolso clara e incondicional de 7 dias, e a promessa concreta de que na sessão eu saio com o checkout e a página de vendas do meu projeto configurados e no ar.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 197,
+  "price_too_expensive": 400
+}

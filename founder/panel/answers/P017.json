@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu resolvo as coisas com o ChatGPT e vídeo grátis no YouTube; montar um plano com IA eu já faço sozinho. O que me trava é a parte de pagamento e página, e isso aqui não promete resolver exatamente isso.",
+  "objection": "Mais um curso de IA, de programa novo sem nenhum aluno com resultado, e eu já tenho vários que não terminei. Parece porta de entrada pra me vender o de R$ 997 e depois o de R$ 14.997.",
+  "would_change_my_mind": "Se a sessão garantisse que no fim da hora meu projeto sai com checkout funcionando e página de vendas no ar, e eu visse gente como eu que conseguiu isso.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 97,
+  "price_too_expensive": 200
+}

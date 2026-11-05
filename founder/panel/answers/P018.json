@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Eu não preciso de mais um plano, preciso de alguém que coloque o pagamento e a página no ar pra mim. Uma sessão onde eu mesmo monto o plano com um agente é mais trabalho meu, e isso eu já tenho de sobra.",
+  "objection": "É de novo eu tendo que fazer sozinho, agora com um robô, e programa novo sem nenhum aluno com resultado. Já paguei curso em que o suporte sumiu na primeira semana.",
+  "would_change_my_mind": "Se a sessão de R$ 97 terminasse com o meu checkout e a página de vendas publicados, feitos por uma pessoa da equipe junto comigo, eu pagaria na hora.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 197,
+  "price_too_expensive": 400
+}
