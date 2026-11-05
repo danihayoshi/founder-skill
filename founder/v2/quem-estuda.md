@@ -37,3 +37,8 @@ O pró-labore de curto prazo vem da Implement, não da Landell.
 - Painel com **pais e mães** como compradores (filhos de 15 a 22 anos), com mensalidade e seleção.
 - Concorrentes: escolas e programas de empreendedorismo e IA para jovens no Brasil (Link, MBA Kids e outros) e preços.
 - Implement: quanto já fatura e quanto do pró-labore ela pode cobrir.
+
+## CORREÇÃO DA FUNDADORA (05/11/2026)
+- **O pró-labore de R$ 100 mil/mês NÃO é dividido com a Implement.** Ele tem de vir da Landell.
+- **Os jovens NÃO são o negócio principal.** A recomendação "A" acima está descartada como núcleo; Landell Jr fica, no máximo, como produto secundário.
+- A decisão sobre quem é o aluno principal continua em aberto.
