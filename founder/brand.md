@@ -30,7 +30,13 @@ Ainda falta rodar o /founder-marketing (posicionamento oficial) e o painel (moti
 
 **Evitar:** "Escola Publica" (soa como "escola pública") e qualquer coisa perto de "Link".
 
-## Lista curta (3)
+## Decisão da fundadora (05/11/2026)
+
+- **Nunca usar o sobrenome (Hayoshi)** no nome. Os candidatos 2 e 3 estão descartados.
+- **Nunca usar "escola de empreendedores"** como nome ou frase de posicionamento.
+- Manter **"Solopreneur"**.
+
+## Lista curta (3) — SUPERADA pela decisão acima
 
 1. **Escola Solopreneur** (a sua escolha): a mais clara para o cliente de hoje; marca fraca por ser descritiva.
 2. **Hayoshi Solopreneur School**: mantém "Solopreneur" e ganha um elemento que dá para proteger. Pode ser abreviada para "Hayoshi School" no futuro.
