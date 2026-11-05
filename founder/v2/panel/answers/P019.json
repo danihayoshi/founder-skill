@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já testei ChatGPT e chatbot de WhatsApp e não funcionou no meu escritório. Pagar R$ 30 mil, quase 4% do que a empresa fatura num ano, num programa novo que ninguém ainda provou que dá resultado, não dá.",
+  "objection": "Quem garante que vai funcionar num escritório de serviços profissionais, com cliente que quer falar com gente e com informação sigilosa? Não tem nenhum empresário com resultado documentado, eu seria cobaia pagando caro.",
+  "would_change_my_mind": "Ver dois ou três escritórios parecidos com o meu (contabilidade ou advocacia) com agentes rodando de verdade há alguns meses, e uma garantia de devolução se nada estiver funcionando no fim do programa.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 10000,
+  "price_too_expensive": 18000
+}

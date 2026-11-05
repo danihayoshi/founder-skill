@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Eu fico 12 horas por dia dentro da loja apagando incêndio, não tenho como parar para ir a encontros ao vivo e implementar nada. E R$ 30 mil é dinheiro demais para um programa que ainda nem tem um empresário com resultado para mostrar.",
+  "objection": "Vou pagar caro, não vou conseguir acompanhar por falta de tempo e no fim o atendimento continua demorando do mesmo jeito. Ninguém provou ainda que isso funciona para um comércio como o meu.",
+  "would_change_my_mind": "Alguém montar o atendimento com IA para mim, sem eu precisar parar a operação, e só cobrar o grosso depois que eu ver que parou de perder cliente por demora na resposta.",
+  "price_too_cheap": 1000,
+  "price_cheap": 3000,
+  "price_expensive": 7000,
+  "price_too_expensive": 12000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Eu não quero aprender a montar agente de IA, quero que alguém monte e cuide pra mim. Pagar R$ 30 mil pra eu mesmo implementar numa turma, num programa que ainda não tem nenhum empresário com resultado, não faz sentido pra minha loja.",
+  "objection": "E quando der problema depois que a turma acabar, quem me ajuda? Eu tenho 60 anos, não vou ficar mexendo em sistema. Se o agente parar de responder cliente numa sexta à noite, eu fico na mão.",
+  "would_change_my_mind": "Se eles fizessem a implementação por mim e dessem suporte mensal garantido depois, com contrato, e me mostrassem pelo menos dois ou três comerciantes como eu usando e ganhando dinheiro com isso.",
+  "price_too_cheap": 2000,
+  "price_cheap": 5000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

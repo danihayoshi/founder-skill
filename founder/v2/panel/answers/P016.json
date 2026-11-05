@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Trinta mil eu até pago se alguém implementa junto e me mostra o retorno, mas programa novo sem nenhum empresário com resultado eu não banco. Não vou ser cobaia com o dinheiro do escritório.",
+  "objection": "Não tem ninguém com resultado documentado, e em turma de 8 a 12 tenho medo de virar aula teórica com um guia dividido entre todo mundo, sem nada rodando de verdade no meu financeiro e no meu atendimento.",
+  "would_change_my_mind": "Ver um escritório parecido com o meu com agentes funcionando e o retorno em números, ou uma garantia atrelada à implementação: se não estiver rodando no meu negócio no fim, devolvem o dinheiro.",
+  "price_too_cheap": 3000,
+  "price_cheap": 10000,
+  "price_expensive": 25000,
+  "price_too_expensive": 45000
+}
