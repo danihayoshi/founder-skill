@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Trinta mil eu até tenho, o problema não é o dinheiro. É programa novo, sem nenhum empresário com resultado documentado, e com cara de mentoria de Instagram. Não vou ser cobaia com o atendimento e a agenda da minha clínica.",
+  "objection": "Quem garante que isso funciona numa clínica? Atendimento de paciente tem LGPD, dado de saúde, agenda, confirmação de consulta. Não vi um caso real nem uma referência que eu possa ligar e perguntar.",
+  "would_change_my_mind": "Falar com dois ou três donos de clínica que já passaram pelo programa e ver os agentes rodando no negócio deles, mais um contrato com entregáveis claros e devolução se não ficar implementado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 6000,
+  "price_expensive": 15000,
+  "price_too_expensive": 30000
+}

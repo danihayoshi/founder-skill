@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Eu já testei ChatGPT e chatbot de WhatsApp e larguei porque não tenho tempo de ficar mexendo nisso, minha loja não para. Pagar R$ 30 mil para eu mesma implementar, numa turma, é o contrário do que eu quero: prefiro pagar alguém que faça por mim.",
+  "objection": "Programa novo, sem nenhum empresário com resultado comprovado, e quem vai ter que fazer o trabalho sou eu. Já falhei uma vez com IA; trinta mil para descobrir que de novo não encaixa na rotina da loja é risco demais.",
+  "would_change_my_mind": "Se os guias implementassem de fato por mim, deixando o atendimento no WhatsApp e o financeiro rodando, com garantia de devolução se não funcionar em 60 dias, e eu visse um comércio parecido com o meu já com resultado.",
+  "price_too_cheap": 2000,
+  "price_cheap": 6000,
+  "price_expensive": 12000,
+  "price_too_expensive": 20000
+}

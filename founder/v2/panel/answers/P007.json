@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Trinta mil eu até tenho, o problema não é o dinheiro. É um programa novo, sem nenhum empresário mostrando resultado, e eu não tenho como parar 12 horas de operação para ser cobaia.",
+  "objection": "Ninguém ainda implementou isso de verdade numa empresa como a minha. Se eu pago e não sobra tempo para fazer junto com os guias, joguei R$ 30 mil fora e ainda perdi semanas.",
+  "would_change_my_mind": "Ver dois ou três donos de empresa do meu porte com agente de IA rodando de verdade no atendimento ou no financeiro, com números, e garantia de devolução se nada estiver funcionando no fim da turma.",
+  "price_too_cheap": 2000,
+  "price_cheap": 6000,
+  "price_expensive": 15000,
+  "price_too_expensive": 30000
+}

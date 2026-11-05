@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Trinta mil numa turma nova, sem nenhum empresário com resultado documentado, é pagar para ser cobaia. Dinheiro a empresa tem, mas não coloco R$ 30 mil em algo que parece mais lançamento de Instagram do que consultoria séria.",
+  "objection": "Não existe nenhum caso real nem referência que eu possa ligar para conferir. Livro e fama de quem opera os próprios negócios com IA não provam que vai funcionar no meu, e eu não sei que retorno concreto vou ter nem o que está garantido em contrato.",
+  "would_change_my_mind": "Contrato com entregas claras (quais agentes ficam funcionando no meu negócio e em quanto tempo) e devolução de parte do valor se não ficarem prontos, ou então conversar com dois ou três donos de empresa do meu porte que já implementaram e me mostrem os números.",
+  "price_too_cheap": 2000,
+  "price_cheap": 6000,
+  "price_expensive": 15000,
+  "price_too_expensive": 25000
+}

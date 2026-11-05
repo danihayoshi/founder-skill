@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já gastei tempo com ChatGPT e robô de WhatsApp e não deu em nada no dia a dia. Trinta mil num programa que ainda não tem nenhum empresário com resultado, sendo que eu mal tenho tempo de parar a loja, não dá.",
+  "objection": "Não sei se vou conseguir parar a operação para fazer encontro ao vivo e implementar. E sem ninguém com resultado comprovado, parece que eu vou pagar caro para ser cobaia.",
+  "would_change_my_mind": "Ver um lojista parecido comigo, com o atendimento de WhatsApp rodando de verdade por IA e respondendo cliente à noite sem ele, e uma garantia de devolução se não funcionar no meu negócio.",
+  "price_too_cheap": 1500,
+  "price_cheap": 4000,
+  "price_expensive": 10000,
+  "price_too_expensive": 18000
+}
