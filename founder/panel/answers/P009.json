@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Montar um plano com agente de IA eu já faço no ChatGPT de graça, e plano eu tenho até demais parado no Notion. Meu problema é não ter cliente, não é ferramenta nem mais um método.",
+  "objection": "Programa novo, sem nenhum aluno com resultado, e a sessão de R$ 97 me parece só a porta de entrada para me empurrar o de R$ 997 e depois o de R$ 14.997. Já paguei curso de IA e continuo travado, não quero repetir.",
+  "would_change_my_mind": "Ver um empreendedor de serviço parecido comigo que saiu do projeto parado e fez a primeira venda de verdade com esse método, ou a sessão incluir alguém me ajudando a conseguir os primeiros clientes, não só um plano.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 197,
+  "price_too_expensive": 400
+}

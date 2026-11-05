@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu já paguei curso de IA e travei justamente porque não quero fazer sozinha; mais uma sessão em que eu monto o plano com um agente é mais trabalho pra mim, não alguém entregando pronto. E agora não estou com cabeça nem dinheiro sobrando pra mais um investimento em IA.",
+  "objection": "Já tenho plano e projeto quase pronto, o que me falta é alguém que termine por mim; um 'Plano IA' de 1 hora parece mais do mesmo, e logo depois vem a escada pra R$ 997 e R$ 14.997, sem nenhum aluno com resultado ainda.",
+  "would_change_my_mind": "Se na sessão alguém da equipe deixasse pronto e publicado algo concreto do meu projeto, tipo a página de vendas ou o link de pagamento funcionando, e não só um plano.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 197,
+  "price_too_expensive": 400
+}

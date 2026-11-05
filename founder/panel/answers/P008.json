@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já paguei curso de IA e continuo travado na parte de pagamento e página; mais uma hora sozinho com um agente, de um programa sem nenhum aluno com resultado e que termina num pacote de quase 15 mil, me parece o começo de mais um funil. E sinceramente, meu negócio atual já come meu tempo todo.",
+  "objection": "Não sei se essa sessão resolve de verdade o que me trava (colocar o pagamento e a página no ar) ou se é só um plano bonito para me vender a aula de R$ 997 e depois o programa de R$ 14.997, que é um quarto da minha renda do ano.",
+  "would_change_my_mind": "Ver outros empreendedores como eu, numa turma ao vivo, saindo da sessão com o pagamento e a página de vendas já funcionando, e ter alguém de carne e osso acompanhando, não só o agente.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 97,
+  "price_too_expensive": 197
+}

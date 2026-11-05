@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "R$ 97 não me assusta, mas eu conheço essa escada: entrada baratinha, depois R$ 997, depois R$ 14.997. Já caí nisso uma vez. Programa novo e sem nenhum aluno com resultado, eu passo.",
+  "objection": "Cadê os resultados de alunos? E um 'plano' de uma hora não resolve o que me trava, que é colocar o pagamento e a página no ar. Plano eu já tenho, o que falta é terminar.",
+  "would_change_my_mind": "Ver casos reais de gente como eu que saiu da sessão com checkout e página de vendas publicados, ou garantia de devolução se no fim da hora eu não tiver o pagamento funcionando.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 147,
+  "price_too_expensive": 297
+}
