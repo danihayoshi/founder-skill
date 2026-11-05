@@ -1,27 +1,24 @@
-# Nota da CFO (rascunho, 05/11/2026)
+# Nota da CFO (rascunho v2, 05/11/2026, sem bolsas no início)
 
-> **Leia assim:** a ferramenta escreve "$", mas tudo está em **reais (R$)**. Como uma turma não vende todo dia, a conta usa **"por dia" = por mês** (days_per_month = 1). Quase todos os custos são **estimativas** da CFO, marcadas no numbers.json, e precisam ser confirmados com orçamentos reais. Isto não é parecer contábil: um contador deve checar a estrutura (CNPJ, Simples Nacional), o pró-labore e os impostos. A receita está **antes dos impostos**.
+> **Leia assim:** a ferramenta escreve "$", mas tudo está em **reais (R$)**. "Por dia" na tabela quer dizer **por mês** (days_per_month = 1). Quase todos os custos são **estimativas**: ver `cfo-sources.md`. Isto não é parecer contábil: um contador deve checar o CNPJ, o regime de impostos e o pró-labore. A receita está antes dos impostos.
 
-- **A margem:** cada vaga de R$ 14.997 deixa **R$ 9.647 (64%)** depois dos custos diretos. A residência (R$ 3.500 por aluno) é o maior deles.
-- **Ponto de equilíbrio:** com R$ 16.300/mês de custo fixo, são **cerca de 2 vagas por mês** (por volta de 20 por ano).
-- **Ano 1 (rascunho):** Fellowship L00 nos meses 1 a 5, sem receita; turmas pagas de 6, 8 e 10 alunos nos meses 6, 9 e 12. São 24 vagas, **R$ 359.928 de receita** e **R$ 35.928 de lucro operacional** (R$ 11.428 depois do investimento inicial de R$ 24.500).
-- **Caixa necessário: R$ 106.000** antes de o negócio se pagar (o ponto mais baixo vem no mês 5). **Isso é o que mais pesa.**
-- **A linha a observar é o preço.** Com 10% a menos, o ano 1 fica no zero (−R$ 65). A R$ 9.997, o ano 1 dá **−R$ 84.072**. A R$ 19.997, **+R$ 155.928**. Com 20% menos alunos, −R$ 10.378.
+**A fundadora não aprovou começar com bolsas.** Por isso a Fellowship L00 saiu do modelo. A v2 começa direto com turmas pagas.
+O volume ainda é um **marcador** da CFO e deve ser trocado pelo da fundadora: turmas nos meses 3, 6, 9 e 12, com 6, 8, 10 e 10 alunos (34 vagas no ano).
+
+- **Margem por vaga:** R$ 9.647 (64%) a R$ 14.997.
+- **Ponto de equilíbrio:** cerca de 2 vagas por mês.
+- **Ano 1:** **R$ 509.898 de receita**, **R$ 132.398 de lucro operacional** (R$ 116.898 depois do investimento inicial de R$ 15.500).
+- **Caixa necessário: R$ 48.100.** O investimento se paga no mês 6.
+- **Sensibilidade:**
+  - R$ 9.997 → −R$ 37.602
+  - R$ 19.997 → +R$ 302.398
+  - metade dos alunos → −R$ 31.601
+- **O risco:** o conselho e o painel avisaram que, sem casos de alunos, é difícil vender uma vaga cara. "Sem resultados" foi a objeção nº 1 do painel. A conta só fecha se as 6 primeiras vagas venderem.
 
 ## Para chegar a R$ 1 milhão por ano
-- Só com turmas a R$ 14.997, são **cerca de 67 vagas por ano**, ou seja, umas 6 turmas de 11 a 12 alunos. Cada vaga paga sozinha os custos dela e deixa sobra, então a conta é sobre volume, não sobre margem. (O canvas previa 334 clientes porque misturava preços baixos.)
-- **Patronos e empresas não mudam a margem, mudam quem paga.** 10 bolsas patrocinadas = R$ 149.970 por ano, e cada bolsa vira um caso documentado.
-- **A assinatura de ex-alunos pode ser a maior alavanca** (cálculo à parte, estimativa): 200 ex-alunos × R$ 297/mês = **R$ 712.800 por ano** de receita que se repete.
-
-## Três formas de melhorar (todas rodadas na ferramenta ou calculadas acima)
-1. **Preço R$ 19.997** (escola premium com certificado forte): ano 1 vai de R$ 35.928 para **R$ 155.928**.
-2. **Patronos financiando a Fellowship e a primeira turma:** reduz o caixa necessário de R$ 106 mil.
-3. **Assinatura desde a turma L01:** receita entre uma turma e outra, cobrindo os meses vazios (hoje são 9 meses no vermelho).
-
-## Condições de dinheiro do conselho (board.md)
-- Unit economics: **em rascunho**, com estimativas. Falta o custo real de entrega e de capacidade.
-- CAC: **ainda desconhecido.** Nada de anúncios antes de medir.
-- 3 casos antes de vender acima de R$ 997: **o plano respeita isso**, porque a Fellowship L00 vem antes das turmas pagas.
+- Cerca de 67 vagas por ano a R$ 14.997 (6 turmas de 11 ou 12 alunos), ou 50 vagas a R$ 19.997.
+- Empresas e patronos pagando vagas mudam quem paga, não a margem.
+- Assinatura de ex-alunos (estimativa): 200 × R$ 297/mês = R$ 712.800 por ano, receita que se repete.
 
 ---
 
@@ -51,33 +48,33 @@ Fixed costs: $16,300 a month (Pró-labore da fundadora [A DEFINIR pela fundadora
 
 ## Year 1, month by month
 
-| month | vagas a day | revenue | profit | cumulative (after $24,500 startup) |
+| month | vagas a day | revenue | profit | cumulative (after $15,500 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 0 | $0 | -$16,300 | -$40,800 |
-| 2 | 0 | $0 | -$16,300 | -$57,100 |
-| 3 | 0 | $0 | -$16,300 | -$73,400 |
-| 4 | 0 | $0 | -$16,300 | -$89,700 |
-| 5 | 0 | $0 | -$16,300 | -$106,000 |
-| 6 | 6 | $89,982 | $41,582 | -$64,418 |
-| 7 | 0 | $0 | -$16,300 | -$80,718 |
-| 8 | 0 | $0 | -$16,300 | -$97,018 |
-| 9 | 8 | $119,976 | $60,876 | -$36,142 |
-| 10 | 0 | $0 | -$16,300 | -$52,442 |
-| 11 | 0 | $0 | -$16,300 | -$68,742 |
-| 12 | 10 | $149,970 | $80,170 | $11,428 |
+| 1 | 0 | $0 | -$16,300 | -$31,800 |
+| 2 | 0 | $0 | -$16,300 | -$48,100 |
+| 3 | 6 | $89,982 | $41,582 | -$6,518 |
+| 4 | 0 | $0 | -$16,300 | -$22,818 |
+| 5 | 0 | $0 | -$16,300 | -$39,118 |
+| 6 | 8 | $119,976 | $60,876 | $21,758 |
+| 7 | 0 | $0 | -$16,300 | $5,458 |
+| 8 | 0 | $0 | -$16,300 | -$10,842 |
+| 9 | 10 | $149,970 | $80,170 | $69,328 |
+| 10 | 0 | $0 | -$16,300 | $53,028 |
+| 11 | 0 | $0 | -$16,300 | $36,728 |
+| 12 | 10 | $149,970 | $80,170 | $116,898 |
 
-- **Year 1 operating profit: $35,928** on $359,928 of revenue.
-- After the $24,500 startup spend: $11,428.
-- Startup money earned back: month 12.
-- Cash you need before it pays for itself: **$106,000**.
+- **Year 1 operating profit: $132,398** on $509,898 of revenue.
+- After the $15,500 startup spend: $116,898.
+- Startup money earned back: month 6.
+- Cash you need before it pays for itself: **$48,100**.
 
 ## What if
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 50% | 2 | $35,928 |
-| Price -10% | 44% | 3 | -$65 |
-| Volume -20% | 46% | 2 | -$10,378 |
-| Unit costs +15% | 44% | 2 | $16,668 |
+| Base plan | 50% | 2 | $132,398 |
+| Price -10% | 44% | 3 | $81,408 |
+| Volume -20% | 46% | 2 | $66,798 |
+| Unit costs +15% | 44% | 2 | $105,113 |
 
 No red flags in these numbers. They are only as good as the inputs: check every cost against a real quote.
