@@ -1,0 +1,162 @@
+{
+ "business": "Landell School of Business (B1): método + equipe de agentes de IA da ideia à primeira venda, sem equipe e sem programar",
+ "seed": 972134,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 5,
+ "passes": 15,
+ "buy_rate": 0.25,
+ "by_segment": [
+  [
+   "Infoprodutor ou criador que já vendeu online e quer lançar algo novo (renda anual em reais, R$)",
+   5,
+   0.6
+  ],
+  [
+   "Empreendedor recente, saiu do emprego há pouco e está no primeiro negócio próprio (renda anual em reais, R$)",
+   4,
+   0.25
+  ],
+  [
+   "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "Dono de pequeno negócio (loja, clínica, escritório) querendo um negócio ou canal digital (renda anual em reais, R$)",
+   4,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Colecionador de cursos",
+   5,
+   1.0
+  ],
+  [
+   "Busca comunidade",
+   3,
+   0.0
+  ],
+  [
+   "Cético de guru",
+   3,
+   0.0
+  ],
+  [
+   "Faz-tudo com ChatGPT",
+   4,
+   0.0
+  ],
+  [
+   "Quer que façam por ele",
+   3,
+   0.0
+  ],
+  [
+   "Pesquisa muito antes de pagar",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$211,000 and up",
+   7,
+   0.2857142857142857
+  ],
+  [
+   "$110,000 to $211,000",
+   7,
+   0.2857142857142857
+  ],
+  [
+   "under $110,000",
+   6,
+   0.16666666666666666
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   6,
+   [
+    "R$ 97 não pesa no meu bolso, mas eu conheço esse funil de dentro: entrada barata pra me levar pros R$ 14.997, programa novo, sem nenhum aluno com resultado. E essa sessão é eu sozinho com um agente, sem turma e sem ninguém ao vivo, que é justamente o que me faz destravar.",
+    "R$ 97 não me assusta, mas eu conheço essa escada: entrada baratinha, depois R$ 997, depois R$ 14.997. Já caí nisso uma vez. Programa novo e sem nenhum aluno com resultado, eu passo."
+   ],
+   [
+    "P001",
+    "P005"
+   ]
+  ],
+  [
+   "habit",
+   4,
+   [
+    "R$ 97 não me assusta, mas uma hora sozinho montando plano com um agente é exatamente onde eu já travei antes. Eu só avanço quando tem gente junto, no mesmo momento, com acompanhamento ao vivo, e isso aqui começa justamente pelo agente.",
+    "Eu já paguei curso de IA e travei justamente porque não quero fazer sozinha; mais uma sessão em que eu monto o plano com um agente é mais trabalho pra mim, não alguém entregando pronto. E agora não estou com cabeça nem dinheiro sobrando pra mais um investimento em IA."
+   ],
+   [
+    "P002",
+    "P007"
+   ]
+  ],
+  [
+   "need",
+   4,
+   [
+    "Montar um plano com agente de IA eu faço sozinho no ChatGPT numa tarde, de graça. Meu problema é não ter cliente, não é ferramenta nem mais um plano.",
+    "Montar um plano com agente de IA eu já faço no ChatGPT de graça, e plano eu tenho até demais parado no Notion. Meu problema é não ter cliente, não é ferramenta nem mais um método."
+   ],
+   [
+    "P006",
+    "P009"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "R$ 97 não me pesa no bolso, mas isso ainda sou eu montando sozinha com um agente, e depois aulas e método. Já tenho uma pasta de cursos na Hotmart que não terminei; eu quero alguém que entregue o projeto pronto, não mais uma coisa pra eu aprender."
+   ],
+   [
+    "P013"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "habit",
+   5,
+   [
+    "Eu compro quase tudo que lança nessa linha, e R$ 97 por uma sessão de 1 hora pra destravar o projeto que tá parado no Notion há meses é pouco pra mim. Compro por impulso, mesmo sabendo que talvez não vá até o fim.",
+    "R$ 97 por uma sessão que monta o plano do meu projeto parado é o tipo de coisa que eu compro no impulso, ainda mais se for ajudar com a parte de pagamento e página onde eu sempre travo. Mas compro a entrada e só; os R$ 997 e os R$ 14.997 eu nem considero agora."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ]
+ ],
+ "flip": [
+  "Uma garantia de reembolso clara e incondicional e a sessão de entrada feita junto com uma turma ou com acompanhamento ao vivo, com outras pessoas no mesmo momento que eu.",
+  "Se a sessão de entrada fosse ao vivo em grupo, com uma pessoa de verdade guiando e uma turma de empreendedores no mesmo ponto que eu, com acompanhamento até colocar a página de vendas no ar.",
+  "Ver casos reais de gente como eu que saiu da sessão com checkout e página de vendas publicados, ou garantia de devolução se no fim da hora eu não tiver o pagamento funcionando.",
+  "Se a sessão garantisse sair com a oferta publicada e uma ação concreta para conseguir os primeiros clientes, e eu visse casos reais de gente como eu que vendeu depois.",
+  "Se na sessão alguém da equipe deixasse pronto e publicado algo concreto do meu projeto, tipo a página de vendas ou o link de pagamento funcionando, e não só um plano.",
+  "Ver outros empreendedores como eu, numa turma ao vivo, saindo da sessão com o pagamento e a página de vendas já funcionando, e ter alguém de carne e osso acompanhando, não só o agente.",
+  "Ver um empreendedor de serviço parecido comigo que saiu do projeto parado e fez a primeira venda de verdade com esse método, ou a sessão incluir alguém me ajudando a conseguir os primeiros clientes, não só um plano.",
+  "Se a sessão de 1 hora terminasse com meu checkout e minha página de vendas funcionando de verdade, com uma pessoa acompanhando, e garantia de devolução se eu sair sem isso pronto.",
+  "Se a sessão de 1 hora terminasse com meu projeto publicado de verdade, com página de vendas e link de pagamento no ar, ou se tivesse garantia de devolução caso eu saísse só com mais um documento.",
+  "Se na sessão alguém da equipe fizesse junto comigo e saísse dali com a página de vendas ou o pagamento já configurado e publicado, não só um plano.",
+  "Uma garantia de reembolso clara e incondicional, por escrito (tipo 7 dias, devolução sem perguntas), mais pelo menos alguns depoimentos de gente real que fez a sessão e saiu com um plano que usou de verdade.",
+  "Garantia de reembolso clara e incondicional de 7 dias, e a promessa concreta de que na sessão eu saio com o checkout e a página de vendas do meu projeto configurados e no ar.",
+  "Uma garantia clara de reembolso de 7 dias sem perguntas, mais dois ou três depoimentos verificáveis de pessoas reais que destravaram um projeto com a sessão.",
+  "Se a sessão garantisse que no fim da hora meu projeto sai com checkout funcionando e página de vendas no ar, e eu visse gente como eu que conseguiu isso.",
+  "Se a sessão de R$ 97 terminasse com o meu checkout e a página de vendas publicados, feitos por uma pessoa da equipe junto comigo, eu pagaria na hora."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}
