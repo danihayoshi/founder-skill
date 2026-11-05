@@ -1,25 +1,80 @@
 {
   "business": "AI Solopreneur Academy (B1): método + equipe de agentes de IA da ideia à primeira venda, sem equipe e sem programar",
-  "target": "Brasileiros que pagaram curso ou ferramenta de IA nos últimos 90 dias, testaram uma ideia de negócio próprio e travaram com um projeto quase pronto parado (sem pagamento, página de vendas ou publicação)",
+  "target": "Empreendedores brasileiros que pagaram curso ou ferramenta de IA nos últimos 90 dias, testaram um projeto novo (produto, oferta ou negócio digital) e travaram com ele quase pronto e parado (sem pagamento, página de vendas ou publicação)",
   "where": "Brasil, online (Instagram, YouTube, comunidades de IA)",
-  "age": [26, 52],
+  "age": [
+    28,
+    55
+  ],
   "segments": [
-    {"name": "CLT querendo renda extra / transição (renda anual em reais, R$)", "share": 0.40, "income": [48000, 120000]},
-    {"name": "Autônomo ou freelancer querendo escalar com IA (renda anual em reais, R$)", "share": 0.30, "income": [36000, 150000]},
-    {"name": "Profissional sênior ou ex-executivo montando negócio próprio (renda anual em reais, R$)", "share": 0.20, "income": [150000, 400000]},
-    {"name": "Empreendedor digital que já vendeu infoproduto (renda anual em reais, R$)", "share": 0.10, "income": [60000, 300000]}
+    {
+      "name": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+      "share": 0.35,
+      "income": [
+        60000,
+        240000
+      ]
+    },
+    {
+      "name": "Infoprodutor ou criador que já vendeu online e quer lançar algo novo (renda anual em reais, R$)",
+      "share": 0.25,
+      "income": [
+        60000,
+        360000
+      ]
+    },
+    {
+      "name": "Dono de pequeno negócio (loja, clínica, escritório) querendo um negócio ou canal digital (renda anual em reais, R$)",
+      "share": 0.2,
+      "income": [
+        80000,
+        400000
+      ]
+    },
+    {
+      "name": "Empreendedor recente, saiu do emprego há pouco e está no primeiro negócio próprio (renda anual em reais, R$)",
+      "share": 0.2,
+      "income": [
+        36000,
+        120000
+      ]
+    }
   ],
   "behaviours": [
-    {"name": "Colecionador de cursos", "share": 0.25, "how": "Compra curso novo a cada lançamento, assiste metade e parte para o próximo."},
-    {"name": "Faz-tudo com ChatGPT", "share": 0.20, "how": "Acredita que dá para fazer tudo sozinho com IA e conteúdo grátis no YouTube."},
-    {"name": "Cético de guru", "share": 0.15, "how": "Já se sentiu enganado por lançamento e desconfia de promessa de renda."},
-    {"name": "Quer que façam por ele", "share": 0.15, "how": "Prefere pagar freelancer ou agência para entregar pronto do que aprender."},
-    {"name": "Busca comunidade", "share": 0.15, "how": "Fica onde tem gente no mesmo momento, desafios e acompanhamento ao vivo."},
-    {"name": "Pesquisa muito antes de pagar", "share": 0.10, "how": "Lê Reclame Aqui, procura alunos reais e compara três opções antes de comprar."}
+    {
+      "name": "Colecionador de cursos",
+      "share": 0.25,
+      "how": "Compra curso novo a cada lançamento, assiste metade e parte para o próximo."
+    },
+    {
+      "name": "Faz-tudo com ChatGPT",
+      "share": 0.2,
+      "how": "Acredita que dá para fazer tudo sozinho com IA e conteúdo grátis no YouTube."
+    },
+    {
+      "name": "Cético de guru",
+      "share": 0.15,
+      "how": "Já se sentiu enganado por lançamento e desconfia de promessa de renda."
+    },
+    {
+      "name": "Quer que façam por ele",
+      "share": 0.15,
+      "how": "Prefere pagar freelancer ou agência para entregar pronto do que aprender."
+    },
+    {
+      "name": "Busca comunidade",
+      "share": 0.15,
+      "how": "Fica onde tem gente no mesmo momento, desafios e acompanhamento ao vivo."
+    },
+    {
+      "name": "Pesquisa muito antes de pagar",
+      "share": 0.1,
+      "how": "Lê Reclame Aqui, procura alunos reais e compara três opções antes de comprar."
+    }
   ],
   "objections": [
     "Mais um curso de IA? Já tenho vários que não terminei",
-    "Não tenho tempo, trabalho o dia todo",
+    "Não tenho tempo, meu negócio atual já me consome",
     "Isso é coisa de guru, cadê os resultados de alunos?",
     "Consigo fazer isso sozinho com o ChatGPT e vídeo grátis",
     "Não sou técnico, vou travar na parte de agentes de novo",
