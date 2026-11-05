@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "R$ 97 por uma sessão com agente que já sai com um plano é o tipo de coisa que eu compro no impulso à noite vendo Instagram, e meu projeto está parado mesmo. Mas eu compro a entrada, não as aulas de R$ 997 nem o programa de R$ 14.997.",
+  "objection": "Sinceramente, acho que consigo montar esse plano sozinha com o ChatGPT e vídeo grátis, e já tenho um monte de curso comprado pela metade. Programa novo, sem nenhum resultado de aluno, então não sei se vai ser diferente dos outros.",
+  "would_change_my_mind": "Ver antes um exemplo real do 'Plano IA do Seu Negócio' pronto, mostrando algo que o ChatGPT sozinho não me daria; se parecer um prompt genérico, eu não compro.",
+  "price_too_cheap": 20,
+  "price_cheap": 47,
+  "price_expensive": 197,
+  "price_too_expensive": 397
+}

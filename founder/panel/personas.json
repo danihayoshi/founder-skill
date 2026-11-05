@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Rafael",
+  "age": 40,
+  "segment": "Infoprodutor ou criador que já vendeu online e quer lançar algo novo (renda anual em reais, R$)",
+  "income": 281000,
+  "behaviour": "Busca comunidade",
+  "behaviour_how": "Fica onde tem gente no mesmo momento, desafios e acompanhamento ao vivo.",
+  "objection": "Tenho medo de não conseguir cancelar ou receber o dinheiro de volta",
+  "habit": "você assiste vídeos de IA no Instagram à noite depois do trabalho"
+ },
+ {
+  "id": "P002",
+  "name": "Malik",
+  "age": 50,
+  "segment": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+  "income": 105000,
+  "behaviour": "Busca comunidade",
+  "behaviour_how": "Fica onde tem gente no mesmo momento, desafios e acompanhamento ao vivo.",
+  "objection": "Não sou técnico, vou travar na parte de agentes de novo",
+  "habit": "você tem um projeto no Notion ou no Canva parado há meses"
+ },
+ {
+  "id": "P003",
+  "name": "Iris",
+  "age": 48,
+  "segment": "Infoprodutor ou criador que já vendeu online e quer lançar algo novo (renda anual em reais, R$)",
+  "income": 110000,
+  "behaviour": "Colecionador de cursos",
+  "behaviour_how": "Compra curso novo a cada lançamento, assiste metade e parte para o próximo.",
+  "objection": "Já comprei curso em que o suporte sumiu depois da primeira semana",
+  "habit": "você tem um projeto no Notion ou no Canva parado há meses"
+ },
+ {
+  "id": "P004",
+  "name": "Cole",
+  "age": 50,
+  "segment": "Empreendedor recente, saiu do emprego há pouco e está no primeiro negócio próprio (renda anual em reais, R$)",
+  "income": 59000,
+  "behaviour": "Colecionador de cursos",
+  "behaviour_how": "Compra curso novo a cada lançamento, assiste metade e parte para o próximo.",
+  "objection": "Tenho medo de não conseguir cancelar ou receber o dinheiro de volta",
+  "habit": "você comenta em lives perguntando como fazer a parte de pagamento e página"
+ },
+ {
+  "id": "P005",
+  "name": "Elle",
+  "age": 47,
+  "segment": "Dono de pequeno negócio (loja, clínica, escritório) querendo um negócio ou canal digital (renda anual em reais, R$)",
+  "income": 124000,
+  "behaviour": "Cético de guru",
+  "behaviour_how": "Já se sentiu enganado por lançamento e desconfia de promessa de renda.",
+  "objection": "Isso é coisa de guru, cadê os resultados de alunos?",
+  "habit": "você comenta em lives perguntando como fazer a parte de pagamento e página"
+ },
+ {
+  "id": "P006",
+  "name": "Kofi",
+  "age": 52,
+  "segment": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+  "income": 111000,
+  "behaviour": "Faz-tudo com ChatGPT",
+  "behaviour_how": "Acredita que dá para fazer tudo sozinho com IA e conteúdo grátis no YouTube.",
+  "objection": "Meu problema é não ter cliente, não é ferramenta",
+  "habit": "você testa uma ferramenta de IA nova toda semana"
+ },
+ {
+  "id": "P007",
+  "name": "Celine",
+  "age": 52,
+  "segment": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+  "income": 224000,
+  "behaviour": "Quer que façam por ele",
+  "behaviour_how": "Prefere pagar freelancer ou agência para entregar pronto do que aprender.",
+  "objection": "Não tenho dinheiro agora para investir mais",
+  "habit": "você assiste vídeos de IA no Instagram à noite depois do trabalho"
+ },
+ {
+  "id": "P008",
+  "name": "Ethan",
+  "age": 55,
+  "segment": "Empreendedor recente, saiu do emprego há pouco e está no primeiro negócio próprio (renda anual em reais, R$)",
+  "income": 53000,
+  "behaviour": "Busca comunidade",
+  "behaviour_how": "Fica onde tem gente no mesmo momento, desafios e acompanhamento ao vivo.",
+  "objection": "Não tenho tempo, meu negócio atual já me consome",
+  "habit": "você comenta em lives perguntando como fazer a parte de pagamento e página"
+ },
+ {
+  "id": "P009",
+  "name": "Levi",
+  "age": 55,
+  "segment": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+  "income": 222000,
+  "behaviour": "Faz-tudo com ChatGPT",
+  "behaviour_how": "Acredita que dá para fazer tudo sozinho com IA e conteúdo grátis no YouTube.",
+  "objection": "Meu problema é não ter cliente, não é ferramenta",
+  "habit": "você tem um projeto no Notion ou no Canva parado há meses"
+ },
+ {
+  "id": "P010",
+  "name": "Nia",
+  "age": 42,
+  "segment": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+  "income": 163000,
+  "behaviour": "Colecionador de cursos",
+  "behaviour_how": "Compra curso novo a cada lançamento, assiste metade e parte para o próximo.",
+  "objection": "Consigo fazer isso sozinho com o ChatGPT e vídeo grátis",
+  "habit": "você assiste vídeos de IA no Instagram à noite depois do trabalho"
+ },
+ {
+  "id": "P011",
+  "name": "Noah",
+  "age": 37,
+  "segment": "Empreendedor recente, saiu do emprego há pouco e está no primeiro negócio próprio (renda anual em reais, R$)",
+  "income": 38000,
+  "behaviour": "Cético de guru",
+  "behaviour_how": "Já se sentiu enganado por lançamento e desconfia de promessa de renda.",
+  "objection": "Já comprei curso em que o suporte sumiu depois da primeira semana",
+  "habit": "você comenta em lives perguntando como fazer a parte de pagamento e página"
+ },
+ {
+  "id": "P012",
+  "name": "Sana",
+  "age": 38,
+  "segment": "Dono de pequeno negócio (loja, clínica, escritório) querendo um negócio ou canal digital (renda anual em reais, R$)",
+  "income": 94000,
+  "behaviour": "Cético de guru",
+  "behaviour_how": "Já se sentiu enganado por lançamento e desconfia de promessa de renda.",
+  "objection": "Meu problema é não ter cliente, não é ferramenta",
+  "habit": "você tem um projeto no Notion ou no Canva parado há meses"
+ },
+ {
+  "id": "P013",
+  "name": "Jade",
+  "age": 29,
+  "segment": "Dono de pequeno negócio (loja, clínica, escritório) querendo um negócio ou canal digital (renda anual em reais, R$)",
+  "income": 154000,
+  "behaviour": "Quer que façam por ele",
+  "behaviour_how": "Prefere pagar freelancer ou agência para entregar pronto do que aprender.",
+  "objection": "Não sou técnico, vou travar na parte de agentes de novo",
+  "habit": "você tem uma pasta de cursos comprados na Hotmart que não terminou"
+ },
+ {
+  "id": "P014",
+  "name": "Luca",
+  "age": 29,
+  "segment": "Empreendedor recente, saiu do emprego há pouco e está no primeiro negócio próprio (renda anual em reais, R$)",
+  "income": 61000,
+  "behaviour": "Pesquisa muito antes de pagar",
+  "behaviour_how": "Lê Reclame Aqui, procura alunos reais e compara três opções antes de comprar.",
+  "objection": "Tenho medo de não conseguir cancelar ou receber o dinheiro de volta",
+  "habit": "você tem uma pasta de cursos comprados na Hotmart que não terminou"
+ },
+ {
+  "id": "P015",
+  "name": "Bilal",
+  "age": 46,
+  "segment": "Infoprodutor ou criador que já vendeu online e quer lançar algo novo (renda anual em reais, R$)",
+  "income": 319000,
+  "behaviour": "Faz-tudo com ChatGPT",
+  "behaviour_how": "Acredita que dá para fazer tudo sozinho com IA e conteúdo grátis no YouTube.",
+  "objection": "Tenho medo de não conseguir cancelar ou receber o dinheiro de volta",
+  "habit": "você comenta em lives perguntando como fazer a parte de pagamento e página"
+ },
+ {
+  "id": "P016",
+  "name": "Zoe",
+  "age": 34,
+  "segment": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+  "income": 235000,
+  "behaviour": "Pesquisa muito antes de pagar",
+  "behaviour_how": "Lê Reclame Aqui, procura alunos reais e compara três opções antes de comprar.",
+  "objection": "Tenho medo de não conseguir cancelar ou receber o dinheiro de volta",
+  "habit": "você testa uma ferramenta de IA nova toda semana"
+ },
+ {
+  "id": "P017",
+  "name": "Oscar",
+  "age": 54,
+  "segment": "Dono de pequeno negócio (loja, clínica, escritório) querendo um negócio ou canal digital (renda anual em reais, R$)",
+  "income": 155000,
+  "behaviour": "Faz-tudo com ChatGPT",
+  "behaviour_how": "Acredita que dá para fazer tudo sozinho com IA e conteúdo grátis no YouTube.",
+  "objection": "Mais um curso de IA? Já tenho vários que não terminei",
+  "habit": "você comenta em lives perguntando como fazer a parte de pagamento e página"
+ },
+ {
+  "id": "P018",
+  "name": "Ben",
+  "age": 29,
+  "segment": "Empreendedor solo de serviço (consultor, coach, terapeuta, agência de uma pessoa) querendo um produto digital (renda anual em reais, R$)",
+  "income": 206000,
+  "behaviour": "Quer que façam por ele",
+  "behaviour_how": "Prefere pagar freelancer ou agência para entregar pronto do que aprender.",
+  "objection": "Já comprei curso em que o suporte sumiu depois da primeira semana",
+  "habit": "você comenta em lives perguntando como fazer a parte de pagamento e página"
+ },
+ {
+  "id": "P019",
+  "name": "Andre",
+  "age": 43,
+  "segment": "Infoprodutor ou criador que já vendeu online e quer lançar algo novo (renda anual em reais, R$)",
+  "income": 211000,
+  "behaviour": "Colecionador de cursos",
+  "behaviour_how": "Compra curso novo a cada lançamento, assiste metade e parte para o próximo.",
+  "objection": "Meu problema é não ter cliente, não é ferramenta",
+  "habit": "você tem uma pasta de cursos comprados na Hotmart que não terminou"
+ },
+ {
+  "id": "P020",
+  "name": "Amara",
+  "age": 35,
+  "segment": "Infoprodutor ou criador que já vendeu online e quer lançar algo novo (renda anual em reais, R$)",
+  "income": 292000,
+  "behaviour": "Colecionador de cursos",
+  "behaviour_how": "Compra curso novo a cada lançamento, assiste metade e parte para o próximo.",
+  "objection": "Consigo fazer isso sozinho com o ChatGPT e vídeo grátis",
+  "habit": "você tem um projeto no Notion ou no Canva parado há meses"
+ }
+]

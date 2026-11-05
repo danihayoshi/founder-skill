@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "Eu compro quase tudo que lança nessa linha, e R$ 97 por uma sessão de 1 hora pra destravar o projeto que tá parado no Notion há meses é pouco pra mim. Compro por impulso, mesmo sabendo que talvez não vá até o fim.",
+  "objection": "Já paguei curso em que o suporte sumiu depois da primeira semana. Programa novo, sem nenhum resultado de aluno, e logo depois vem R$ 997 e R$ 14.997: tenho medo de a sessão ser só uma porta de venda e o agente me entregar um plano genérico que vai parar na mesma gaveta.",
+  "would_change_my_mind": "Se eu visse um exemplo real de um \"Plano IA do Seu Negócio\" pronto, ou soubesse que alguém de verdade acompanha depois da sessão, e não só o agente, eu já iria direto pras aulas ao vivo também.",
+  "price_too_cheap": 27,
+  "price_cheap": 47,
+  "price_expensive": 297,
+  "price_too_expensive": 597
+}
