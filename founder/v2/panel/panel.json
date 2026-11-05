@@ -1,0 +1,96 @@
+{
+ "n": 20,
+ "seed": 764702,
+ "customer": {
+  "business": "Landell School of Business v2: implementação de IA no próprio negócio, para donos de negócio",
+  "target": "Donos de negócio brasileiros que já faturam (comércio, clínica, escritório, prestador de serviço, pequena empresa), querem usar IA no próprio negócio e não sabem programar nem têm equipe técnica",
+  "where": "Brasil, online",
+  "age": [
+   30,
+   60
+  ],
+  "segments": [
+   {
+    "name": "Comércio ou varejo (loja, restaurante, padaria), faturamento anual da empresa em reais (R$)",
+    "share": 0.25,
+    "income": [
+     600000,
+     4800000
+    ]
+   },
+   {
+    "name": "Clínica ou consultório (saúde, estética, odontologia), faturamento anual da empresa em reais (R$)",
+    "share": 0.25,
+    "income": [
+     800000,
+     6000000
+    ]
+   },
+   {
+    "name": "Escritório de serviços profissionais (contabilidade, advocacia, arquitetura), faturamento anual da empresa em reais (R$)",
+    "share": 0.25,
+    "income": [
+     500000,
+     5000000
+    ]
+   },
+   {
+    "name": "Pequena empresa de serviços ou e-commerce com 5 a 30 funcionários, faturamento anual da empresa em reais (R$)",
+    "share": 0.25,
+    "income": [
+     1500000,
+     15000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Compra resultado, não curso",
+    "share": 0.2,
+    "how": "Paga caro se alguém implementa junto e mostra o retorno; detesta aula teórica."
+   },
+   {
+    "name": "Já tentou IA e desistiu",
+    "share": 0.2,
+    "how": "Testou ChatGPT e algum chatbot de WhatsApp, não funcionou no dia a dia e largou."
+   },
+   {
+    "name": "Contrata agência ou terceiriza",
+    "share": 0.15,
+    "how": "Prefere pagar uma empresa para fazer por ele e não quer aprender."
+   },
+   {
+    "name": "Cético com mentor de Instagram",
+    "share": 0.15,
+    "how": "Acha que mentoria cara de Instagram é marketing; quer referência, contrato e caso real."
+   },
+   {
+    "name": "Faz imersões e eventos de gestão",
+    "share": 0.15,
+    "how": "Já pagou imersão ou programa de gestão para empresários e gosta de networking com outros donos."
+   },
+   {
+    "name": "Sem tempo, apaga incêndio",
+    "share": 0.15,
+    "how": "Trabalha 12 horas por dia dentro da operação e não consegue parar para estudar."
+   }
+  ],
+  "objections": [
+   "R$ 20 mil a 40 mil é muito para algo que eu não sei se dá retorno",
+   "Quem garante que vai funcionar no meu tipo de negócio?",
+   "Não tenho tempo de parar a operação para aprender",
+   "Prefiro contratar uma agência que faça por mim",
+   "Programa novo, sem nenhum empresário com resultado",
+   "E quando der problema depois que a turma acabar, quem me ajuda?",
+   "Meus funcionários não vão usar"
+  ],
+  "habits": [
+   "você responde clientes no WhatsApp até tarde da noite",
+   "seu financeiro ainda é em planilha e você revisa no domingo",
+   "você segue empresários e mentores de gestão no Instagram",
+   "você já foi a uma imersão ou evento de gestão para empresários",
+   "seu atendimento perde clientes porque demora para responder"
+  ]
+ },
+ "pitch": "Landell School of Business: implementação de IA para quem tem um negócio.\nEm uma turma com 8 a 12 donos de negócio, você implementa no SEU negócio agentes de IA funcionando em atendimento, vendas, financeiro e marketing, sem programar. Encontros ao vivo com Dani Hayoshi (autora do livro \"AI Thinking\", que opera os próprios negócios com agentes de IA) e guias que implementam junto com você.\nTurma: R$ 30.000 por pessoa (trinta mil reais). Também existe a versão individual por R$ 90.000 (noventa mil reais).\nOnline, em português. Programa novo: ainda não há empresários com resultado documentado."
+}

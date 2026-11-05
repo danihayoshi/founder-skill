@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Fatima",
+  "age": 60,
+  "segment": "Pequena empresa de serviços ou e-commerce com 5 a 30 funcionários, faturamento anual da empresa em reais (R$)",
+  "income": 9586000,
+  "behaviour": "Contrata agência ou terceiriza",
+  "behaviour_how": "Prefere pagar uma empresa para fazer por ele e não quer aprender.",
+  "objection": "Meus funcionários não vão usar",
+  "habit": "você já foi a uma imersão ou evento de gestão para empresários"
+ },
+ {
+  "id": "P002",
+  "name": "Noor",
+  "age": 57,
+  "segment": "Comércio ou varejo (loja, restaurante, padaria), faturamento anual da empresa em reais (R$)",
+  "income": 1867000,
+  "behaviour": "Compra resultado, não curso",
+  "behaviour_how": "Paga caro se alguém implementa junto e mostra o retorno; detesta aula teórica.",
+  "objection": "Meus funcionários não vão usar",
+  "habit": "você já foi a uma imersão ou evento de gestão para empresários"
+ },
+ {
+  "id": "P003",
+  "name": "Adrian",
+  "age": 45,
+  "segment": "Pequena empresa de serviços ou e-commerce com 5 a 30 funcionários, faturamento anual da empresa em reais (R$)",
+  "income": 4981000,
+  "behaviour": "Faz imersões e eventos de gestão",
+  "behaviour_how": "Já pagou imersão ou programa de gestão para empresários e gosta de networking com outros donos.",
+  "objection": "Programa novo, sem nenhum empresário com resultado",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P004",
+  "name": "Hugo",
+  "age": 47,
+  "segment": "Clínica ou consultório (saúde, estética, odontologia), faturamento anual da empresa em reais (R$)",
+  "income": 5320000,
+  "behaviour": "Cético com mentor de Instagram",
+  "behaviour_how": "Acha que mentoria cara de Instagram é marketing; quer referência, contrato e caso real.",
+  "objection": "Quem garante que vai funcionar no meu tipo de negócio?",
+  "habit": "você segue empresários e mentores de gestão no Instagram"
+ },
+ {
+  "id": "P005",
+  "name": "Aria",
+  "age": 32,
+  "segment": "Comércio ou varejo (loja, restaurante, padaria), faturamento anual da empresa em reais (R$)",
+  "income": 3650000,
+  "behaviour": "Já tentou IA e desistiu",
+  "behaviour_how": "Testou ChatGPT e algum chatbot de WhatsApp, não funcionou no dia a dia e largou.",
+  "objection": "Prefiro contratar uma agência que faça por mim",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P006",
+  "name": "Seth",
+  "age": 44,
+  "segment": "Clínica ou consultório (saúde, estética, odontologia), faturamento anual da empresa em reais (R$)",
+  "income": 1404000,
+  "behaviour": "Compra resultado, não curso",
+  "behaviour_how": "Paga caro se alguém implementa junto e mostra o retorno; detesta aula teórica.",
+  "objection": "Não tenho tempo de parar a operação para aprender",
+  "habit": "você segue empresários e mentores de gestão no Instagram"
+ },
+ {
+  "id": "P007",
+  "name": "Ben",
+  "age": 50,
+  "segment": "Pequena empresa de serviços ou e-commerce com 5 a 30 funcionários, faturamento anual da empresa em reais (R$)",
+  "income": 11861000,
+  "behaviour": "Sem tempo, apaga incêndio",
+  "behaviour_how": "Trabalha 12 horas por dia dentro da operação e não consegue parar para estudar.",
+  "objection": "Programa novo, sem nenhum empresário com resultado",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P008",
+  "name": "Iris",
+  "age": 42,
+  "segment": "Pequena empresa de serviços ou e-commerce com 5 a 30 funcionários, faturamento anual da empresa em reais (R$)",
+  "income": 11427000,
+  "behaviour": "Cético com mentor de Instagram",
+  "behaviour_how": "Acha que mentoria cara de Instagram é marketing; quer referência, contrato e caso real.",
+  "objection": "R$ 20 mil a 40 mil é muito para algo que eu não sei se dá retorno",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P009",
+  "name": "Yusuf",
+  "age": 40,
+  "segment": "Comércio ou varejo (loja, restaurante, padaria), faturamento anual da empresa em reais (R$)",
+  "income": 2692000,
+  "behaviour": "Já tentou IA e desistiu",
+  "behaviour_how": "Testou ChatGPT e algum chatbot de WhatsApp, não funcionou no dia a dia e largou.",
+  "objection": "Não tenho tempo de parar a operação para aprender",
+  "habit": "você responde clientes no WhatsApp até tarde da noite"
+ },
+ {
+  "id": "P010",
+  "name": "Hana",
+  "age": 34,
+  "segment": "Clínica ou consultório (saúde, estética, odontologia), faturamento anual da empresa em reais (R$)",
+  "income": 5174000,
+  "behaviour": "Faz imersões e eventos de gestão",
+  "behaviour_how": "Já pagou imersão ou programa de gestão para empresários e gosta de networking com outros donos.",
+  "objection": "Meus funcionários não vão usar",
+  "habit": "você segue empresários e mentores de gestão no Instagram"
+ },
+ {
+  "id": "P011",
+  "name": "Owen",
+  "age": 48,
+  "segment": "Escritório de serviços profissionais (contabilidade, advocacia, arquitetura), faturamento anual da empresa em reais (R$)",
+  "income": 4442000,
+  "behaviour": "Já tentou IA e desistiu",
+  "behaviour_how": "Testou ChatGPT e algum chatbot de WhatsApp, não funcionou no dia a dia e largou.",
+  "objection": "Não tenho tempo de parar a operação para aprender",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P012",
+  "name": "Declan",
+  "age": 55,
+  "segment": "Escritório de serviços profissionais (contabilidade, advocacia, arquitetura), faturamento anual da empresa em reais (R$)",
+  "income": 991000,
+  "behaviour": "Faz imersões e eventos de gestão",
+  "behaviour_how": "Já pagou imersão ou programa de gestão para empresários e gosta de networking com outros donos.",
+  "objection": "Prefiro contratar uma agência que faça por mim",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P013",
+  "name": "Eli",
+  "age": 57,
+  "segment": "Clínica ou consultório (saúde, estética, odontologia), faturamento anual da empresa em reais (R$)",
+  "income": 2265000,
+  "behaviour": "Compra resultado, não curso",
+  "behaviour_how": "Paga caro se alguém implementa junto e mostra o retorno; detesta aula teórica.",
+  "objection": "Programa novo, sem nenhum empresário com resultado",
+  "habit": "seu atendimento perde clientes porque demora para responder"
+ },
+ {
+  "id": "P014",
+  "name": "Dev",
+  "age": 45,
+  "segment": "Comércio ou varejo (loja, restaurante, padaria), faturamento anual da empresa em reais (R$)",
+  "income": 1169000,
+  "behaviour": "Sem tempo, apaga incêndio",
+  "behaviour_how": "Trabalha 12 horas por dia dentro da operação e não consegue parar para estudar.",
+  "objection": "Não tenho tempo de parar a operação para aprender",
+  "habit": "seu atendimento perde clientes porque demora para responder"
+ },
+ {
+  "id": "P015",
+  "name": "Sol",
+  "age": 48,
+  "segment": "Clínica ou consultório (saúde, estética, odontologia), faturamento anual da empresa em reais (R$)",
+  "income": 1621000,
+  "behaviour": "Sem tempo, apaga incêndio",
+  "behaviour_how": "Trabalha 12 horas por dia dentro da operação e não consegue parar para estudar.",
+  "objection": "R$ 20 mil a 40 mil é muito para algo que eu não sei se dá retorno",
+  "habit": "você responde clientes no WhatsApp até tarde da noite"
+ },
+ {
+  "id": "P016",
+  "name": "Mira",
+  "age": 57,
+  "segment": "Escritório de serviços profissionais (contabilidade, advocacia, arquitetura), faturamento anual da empresa em reais (R$)",
+  "income": 3930000,
+  "behaviour": "Compra resultado, não curso",
+  "behaviour_how": "Paga caro se alguém implementa junto e mostra o retorno; detesta aula teórica.",
+  "objection": "Programa novo, sem nenhum empresário com resultado",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P017",
+  "name": "Daniel",
+  "age": 41,
+  "segment": "Escritório de serviços profissionais (contabilidade, advocacia, arquitetura), faturamento anual da empresa em reais (R$)",
+  "income": 3801000,
+  "behaviour": "Cético com mentor de Instagram",
+  "behaviour_how": "Acha que mentoria cara de Instagram é marketing; quer referência, contrato e caso real.",
+  "objection": "R$ 20 mil a 40 mil é muito para algo que eu não sei se dá retorno",
+  "habit": "seu financeiro ainda é em planilha e você revisa no domingo"
+ },
+ {
+  "id": "P018",
+  "name": "Hamza",
+  "age": 60,
+  "segment": "Comércio ou varejo (loja, restaurante, padaria), faturamento anual da empresa em reais (R$)",
+  "income": 1658000,
+  "behaviour": "Contrata agência ou terceiriza",
+  "behaviour_how": "Prefere pagar uma empresa para fazer por ele e não quer aprender.",
+  "objection": "E quando der problema depois que a turma acabar, quem me ajuda?",
+  "habit": "você já foi a uma imersão ou evento de gestão para empresários"
+ },
+ {
+  "id": "P019",
+  "name": "Emma",
+  "age": 47,
+  "segment": "Escritório de serviços profissionais (contabilidade, advocacia, arquitetura), faturamento anual da empresa em reais (R$)",
+  "income": 768000,
+  "behaviour": "Já tentou IA e desistiu",
+  "behaviour_how": "Testou ChatGPT e algum chatbot de WhatsApp, não funcionou no dia a dia e largou.",
+  "objection": "Quem garante que vai funcionar no meu tipo de negócio?",
+  "habit": "você já foi a uma imersão ou evento de gestão para empresários"
+ },
+ {
+  "id": "P020",
+  "name": "Marco",
+  "age": 31,
+  "segment": "Pequena empresa de serviços ou e-commerce com 5 a 30 funcionários, faturamento anual da empresa em reais (R$)",
+  "income": 11333000,
+  "behaviour": "Contrata agência ou terceiriza",
+  "behaviour_how": "Prefere pagar uma empresa para fazer por ele e não quer aprender.",
+  "objection": "Meus funcionários não vão usar",
+  "habit": "seu atendimento perde clientes porque demora para responder"
+ }
+]
