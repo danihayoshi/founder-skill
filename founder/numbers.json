@@ -26,8 +26,8 @@
   ],
   "fixed_monthly": [
     {
-      "label": "Pró-labore da fundadora [A DEFINIR pela fundadora; estimativa]",
-      "cost": 10000
+      "label": "Pró-labore da fundadora (definido pela fundadora: R$ 100 mil/mês)",
+      "cost": 100000
     },
     {
       "label": "Plataforma, site, ferramentas e IA [estimativa]",
