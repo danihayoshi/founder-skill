@@ -1,0 +1,28 @@
+{
+  "business": "Landell School of Business: turma premium (rascunho; quase tudo é ESTIMATIVA a confirmar com a fundadora)",
+  "unit": "vaga",
+  "price": 14997,
+  "variable": [
+    {"label": "Residência de 1 semana por aluno (hospedagem + alimentação + espaço) [estimativa]", "cost": 3500},
+    {"label": "Guias ex-alunos: 1 guia por 10 alunos, R$ 6.000 por turma [estimativa]", "cost": 600},
+    {"label": "Créditos de IA/APIs da equipe de agentes por aluno na turma [estimativa]", "cost": 300},
+    {"label": "Taxa de pagamento/parcelamento ~5% [estimativa; conferir no gateway]", "cost": 750},
+    {"label": "Kit, certificado e material [estimativa]", "cost": 200}
+  ],
+  "fixed_monthly": [
+    {"label": "Pró-labore da fundadora [A DEFINIR pela fundadora; estimativa]", "cost": 10000},
+    {"label": "Plataforma, site, ferramentas e IA [estimativa]", "cost": 2500},
+    {"label": "Conteúdo e marca (Os Landells, redes) [estimativa]", "cost": 3000},
+    {"label": "Contador [estimativa]", "cost": 800}
+  ],
+  "startup": [
+    {"label": "Registro de marca INPI (3 classes) + jurídico (CNPJ, contratos) [estimativa]", "cost": 4500},
+    {"label": "Site, plataforma e identidade visual [estimativa]", "cost": 6000},
+    {"label": "Landell Fellowship L00: 10 bolsistas, online, créditos de IA + guias [estimativa]", "cost": 9000},
+    {"label": "Conteúdo de lançamento [estimativa]", "cost": 5000}
+  ],
+  "days_per_month": 1,
+  "capacity_per_day": 30,
+  "plan_per_day": 7.5,
+  "ramp_per_day": [0, 0, 0, 0, 0, 6, 0, 0, 8, 0, 0, 10]
+}
